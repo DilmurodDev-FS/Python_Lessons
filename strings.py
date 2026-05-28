@@ -1,3 +1,10 @@
+# Sana: 28:05:2026 Yil
+# Mavzu: Stringlar
+# Ustoz: Anvar Narzullayev
+
+
+
+#Pastdagisi eski kod 
 # ism = "Dilmurod"
 
 # familiya = " Ravshanov"
