@@ -6,8 +6,6 @@ Mavzu: Sonlar(Numbers).
 Ustoz: Anvar Narzullayev.
  """
 
-from hashlib import new
-
 
 a = 20 #type int
 b = 5.5 #type float
