@@ -8,11 +8,11 @@ Mavzu: If-Else Shartli tarmoqlanish
 """
 #avtolar = ["bmw", "volsvagen", "mers", "damas", "neksiya"]
 #for avto in avtolar:
- #   if avto == "bmw":
-       # print(avto.upper())
+    #if avto == "bmw":
+     #   print(avto.upper())
     #else:
-        #print(avto.lower())
-        
+      #  print(avto.lower())
+       # print(avto.title())
 
 #login = input("Login kiriting: ")
 #if len(login) <= 5:
@@ -20,12 +20,23 @@ Mavzu: If-Else Shartli tarmoqlanish
 #else:
   #  print("Login qabul qilindi")
 
-print( '()'.join('12345') )
+""" 
+ismlar = []
+ismlar.append(input("Ismingizni kiriting: "))
+unliar = "aeiou"
+for i in ismlar:
+    if i  in unliar:
+        print(f"{i} Assalomu aleykum sizning ismingiz {i} va siz qiz bolasiz")
+    else:
+        print(f"{i} Assalomu aleykum sizning ismingiz {i} va siz o'g'il bolasiz")    
+ """
 
+ism = input("Ismingizni kiriting: ")
 
-
-
-
+if ism[-1].lower() in "aeiou":
+    print(f"Assalomu alaykum, {ism.title()} siz qiz bolasiz")
+else:                
+    print(f"Assalomu alaykum, {ism.title()} siz o'g'il bolasiz")
 
 
 
