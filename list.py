@@ -1,5 +1,5 @@
 """ 
-sana 05:29:26 yil 
+sana 05:31:26 yil 
 
 Mavzu: Sonlar(Numbers).
 
@@ -13,6 +13,31 @@ mevalar = [ 'olma', 'anor', 'uzum', 'nok', 'behi', "o'rik" ]
 narhlar = [ 12000, 18000, 10900, 22000, 25000, 36000 ]
 #print(narhlar)
 ismlar = []
+ismlar.append("Anvar")
+ismlar.append("Aziz")
+ismlar.append("Shoxrux")
+ismlar.append("Sardor")
+ismlar.append("Diyorbek") # 0 indexga Diyorbek ni qo'shish  
+#ismlar.remove("Anvar") # Anvar ni o'chirish
+#ismlar.insert(0, "Diyorbek") # 0 indexga Diyorbek ni qo'shish
+ismlar.insert(0,"Diyorbek") # ro'yhat oxiriga Diyorbek ni qo'shish
+#del ismlar[0]  
+ismlar.remove("Diyorbek") # Remove metodi ro'yhatdagi bri xil elementni birinchi kelganini o'chiradi.
+#print(ismlar)
+
+
+bozorlik = ['un', 'yog', 'sovun', 'tuxum', 'piyoz', 'kartoshka']
+mahsulot = bozorlik.pop()
+print(f"Men {mahsulot} sotib oldim.") # pop metodi ro'yhatdagi elementni o'chirib, o'chirilgan elementni qaytaradi. Index orqali elementni o'chirish mumkin. 
+print(f"Sotib olinishi kerak bo'lgan mahsulotlar: {bozorlik}")
+
+
+
+
+
+
+
+
 
 
 
