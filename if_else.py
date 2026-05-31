@@ -14,13 +14,13 @@ Mavzu: If-Else Shartli tarmoqlanish
         #print(avto.lower())
         
 
-login = input("Login kiriting: ")
-if len(login) <= 5:
-    print("Login 5 harfdan ko'p bo'lishi kerak")
-else:
-    print("Login qabul qilindi")
+#login = input("Login kiriting: ")
+#if len(login) <= 5:
+ #   print("Login 5 harfdan ko'p bo'lishi kerak")
+#else:
+  #  print("Login qabul qilindi")
 
-
+print( '()'.join('12345') )
 
 
 
