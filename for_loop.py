@@ -1,6 +1,6 @@
 """ 
 
-Sana 02:03:26 yil 
+Sana 31:05:26 yil 
 
 Ustoz: Anvar Narzullayev 
 
@@ -8,13 +8,27 @@ Mazvu: Pythonda ( For Loop ) for sikli
 
  """
  
-# mehmonlar = ["Anvar", "Abbos", "Aziz", "Asad"]
+mehmonlar = ["Anvar", "Abbos", "Aziz", "Asad"]
 
-# for mehmon in mehmonlar:
-
-#  print("Assalomu aleykum ", mehmon)
+#for mehmon in mehmonlar:
+ #   print(f"Assalomu alaykum, {mehmon} xush kelibsiz!")
 
 sonlar = list(range(11))
+sonning_kvadrati = []
+for son in sonlar:
+    sonning_kvadrati.append(son**2)
+print(f"Sonlar:{sonlar}")
+print(f"Sonlarning kvadrati: {sonning_kvadrati}")
+
+
+
+
+
+
+
+
+
+""" sonlar = list(range(11))
 
 kvadrat_sonlar = []
 
@@ -29,7 +43,7 @@ for son in sonlar:
     # print(sonlar)
     
     print(kvadrat_sonlar)
-    
+     """
     # print(kub_sonlar)
 
 # friends = []
