@@ -39,8 +39,6 @@ print(f"Sotib olinishi kerak bo'lgan mahsulotlar: {bozorlik}")
 
 
 
-
-
 #PASTDAGI KODLLAR ESKI 
 
 """  
@@ -79,7 +77,7 @@ Mavzu: Pythonda royhatlar (List) bilan ishlash
 #
 # mashina = cars.pop(2)
 
-mevalar = [ "olma", "anor", "uzum", "nok", "behi" ]
+""" mevalar = [ "olma", "anor", "uzum", "nok", "behi" ]
 
 narxlar = [ 12000, 18000, 10900, 22000, 25000, 36000 ]
 
@@ -101,4 +99,4 @@ cars.append("Malibu")
 
 cars.append("Tacker")
 
-mashina = cars.pop(2)
+mashina = cars.pop(2) """
