@@ -41,6 +41,14 @@ print(mevalar)
 
 
 
+
+
+
+
+
+
+
+
 #PASTDAGI KODLLAR ESKI 
 
 """  
