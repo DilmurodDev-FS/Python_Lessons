@@ -6,4 +6,5 @@ def son_top():
 
     print(f"{son} sonining ildizi", ildiz, "ga teng")
 
+son_top()
 # This file has been updated
