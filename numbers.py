@@ -1,5 +1,5 @@
 """ 
-sana 05:29:26 yil 08:43 AM
+sana 06:01:26 yil 09:45 PM
 
 Mavzu: Sonlar(Numbers).
 
