@@ -30,11 +30,15 @@ bozorlik = ['un', 'yog', 'sovun', 'tuxum', 'piyoz', 'kartoshka']
 mahsulot = bozorlik.pop()
 print(f"Men {mahsulot} sotib oldim.") # pop metodi ro'yhatdagi elementni o'chirib, o'chirilgan elementni qaytaradi. Index orqali elementni o'chirish mumkin. 
 print(f"Sotib olinishi kerak bo'lgan mahsulotlar: {bozorlik}") """
-print(mevalar)
+""" print(mevalar)
 print(f" Birinchi meva o'chirib tashlandi: {mevalar[0]}") # List elementlariga indeks orqali murojaat qilish mumkin. Indeks 0 dan boshlanadi.
 del mevalar[0] # del operatori ro'yhatdagi elementni o'chirish uchun ishlatiladi. Index orqali elementni o'chirish mumkin.
-print(mevalar)
+print(mevalar) """
 
+bozorlik = ['un', 'yog', 'sovun', 'tuxum', 'piyoz', 'kartoshka']
+mahsulot = bozorlik.pop()
+
+print(mahsulot)
 
 
 
