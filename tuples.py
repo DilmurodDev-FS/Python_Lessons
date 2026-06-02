@@ -1,6 +1,6 @@
 """ 
 
-Sana 02:03:26 yil 10:44
+Sana 02:06:26 yil 
 
 Ustoz: Anvar Narzullayev 
 
