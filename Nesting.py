@@ -47,5 +47,6 @@ for car in cars:
           f'{car['yil']} - yil '
 
           f'{car['narxi']}')
+print(cars[0]['model'])
 
 
