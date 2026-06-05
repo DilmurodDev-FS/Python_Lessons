@@ -40,13 +40,13 @@ cars =[ car0, car1, car2 ]
 
 for car in cars:
 
-    print(f'{car['model'].title()} ' 
+    print(f'{car['model'].title()} \n' 
 
-          f'{car['rang']} rang '
+          f'{car['rang']} rang \n'
 
-          f'{car['yil']} - yil '
+          f'{car['yil']} - yil \n'
 
-          f'{car['narxi']}')
+          f'{car['narxi']} \n')
 print(cars[0]['model'])
 
 
