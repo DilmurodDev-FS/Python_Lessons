@@ -46,7 +46,7 @@ for car in cars:
 
           f'{car['yil']} - yil \n'
 
-          f'{car['narxi']} \n')
+          f'{car['narxi']} \n ')
 print(cars[0]['model'])
 
 
